@@ -12,8 +12,6 @@ Creating full stack Web Site using user Prompt.
 
 A powerful desktop IDE that combines frontend & backend development with AI-powered code generation and real-time preview capabilities.
 
-![App Screenshot](https://via.placeholder.com/800x500.png?text=Full-Stack+Dev+Studio+Screenshot)
-
 ## 🌟 Features
 
 ### 🛠️ Integrated Development Environment
