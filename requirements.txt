@@ -1,0 +1,7 @@
+customtkinter
+PyQt6
+requests
+darkdetect
+typing-extensions
+packaging
+PyQt6-WebEngine
